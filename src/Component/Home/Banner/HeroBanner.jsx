@@ -16,7 +16,7 @@ const HeroBanner = () => {
                         <p className='text-[#4F39F6] font-medium '>New: AI-Powered Tools Available</p>
                     </div>
                     
-                    <h2 className='font-extrabold md:text-[72px] text-2xl'>Supercharge Your Digital Workflow</h2>
+                    <h2 className='font-extrabold lg:text-[72px] text-2xl'>Supercharge Your Digital Workflow</h2>
                     <p className='text-[18px] text-[#627382] mt-4'>Access premium AI tools, design assets, templates, and productivity
                         software—all in one place. Start creating faster today.
                         Explore Products

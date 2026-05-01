@@ -31,9 +31,9 @@ const Navbar = () => {
                         <li><a>FAQ</a></li>
                     </ul>
                 </div>
-                <div className="navbar-end gap-6">
+                <div className="navbar-end gap-4">
                     <button><img src={card} alt="" /></button>
-                    <button className='hidden lg:flex'>Login</button>
+                    <button className='hidden lg:flex btn bg-none border-none'>Login</button>
                     <button className='btn bg-linear-to-r from-[#4F39F6] to-[#9514FA] font-semibold text-white rounded-full'>Get Started</button>
 
                 </div>

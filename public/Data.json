@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "AI Resume Builder Pro",
+    "description": "Create professional ATS-friendly resumes instantly using AI-powered tools.",
+    "price": 12.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "ATS optimization",
+      "100+ templates",
+      "AI suggestions",
+      "PDF export"
+    ],
+    "icon": "https://i.ibb.co.com/4w56BR57/design-tool.png"
+  },
+  {
+    "id": 2,
+    "name": "Portfolio Website Builder",
+    "description": "Build a modern developer portfolio without coding using drag-and-drop tools.",
+    "price": 49.99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Drag & drop editor",
+      "Responsive design",
+      "SEO optimization",
+      "Custom domain"
+    ],
+    "icon": "https://i.ibb.co.com/SX7FQ6fh/operation.png"
+  },
+  {
+    "id": 3,
+    "name": "AI Code Assistant",
+    "description": "Smart AI assistant that helps you write and debug code faster.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "Code autocomplete",
+      "Bug detection",
+      "Multi-language support",
+      "Real-time suggestions"
+    ],
+    "icon": "https://i.ibb.co.com/FkVzsHPw/portfolio.png"
+  },
+  {
+    "id": 4,
+    "name": "Cloud Storage Vault",
+    "description": "Secure cloud storage system to store your files safely.",
+    "price": 5.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Encrypted storage",
+      "Auto backup",
+      "Cross-device sync",
+      "Fast access"
+    ],
+    "icon": "https://i.ibb.co.com/rRj7nzdv/social-media.png"
+  },
+  {
+    "id": 5,
+    "name": "Marketing AI Suite",
+    "description": "Complete AI marketing tool for ads, emails, and social media.",
+    "price": 29.99,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Ad copy generator",
+      "Email automation",
+      "Social scheduler",
+      "Analytics dashboard"
+    ],
+    "icon": "https://i.ibb.co.com/zTPh45Hh/writing-2327400-1.png"
+  },
+  {
+    "id": 6,
+    "name": "UI Component Library",
+    "description": "Ready-to-use UI components for React developers.",
+    "price": 79.0,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "50+ components",
+      "Tailwind ready",
+      "Dark mode support",
+      "Responsive design"
+    ],
+    "icon": "https://example.com/icons/ui.png"
+  },
+  {
+    "id": 7,
+    "name": "AI Interview Coach",
+    "description": "Practice interviews with AI feedback and scoring system.",
+    "price": 14.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Mock interviews",
+      "AI feedback",
+      "Question bank",
+      "Performance tracking"
+    ],
+    "icon": "https://example.com/icons/interview.png"
+  },
+  {
+    "id": 8,
+    "name": "SEO Analyzer Pro",
+    "description": "Improve your website ranking with AI-powered SEO analysis.",
+    "price": 24.99,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Keyword research",
+      "Backlink analysis",
+      "Site audit",
+      "Ranking reports"
+    ],
+    "icon": "https://example.com/icons/seo.png"
+  }
+]
