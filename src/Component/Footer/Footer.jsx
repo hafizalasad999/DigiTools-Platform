@@ -6,7 +6,7 @@ const Footer = () => {
             <div className='container mx-auto'>
                 <div className='grid grid-cols-1 md:grid-cols-5 gap-12 justify-center'>
                     <aside className='text-white'>
-                        <h4 className='font-bold text-3xl'>DigiTools</h4>
+                        <h4 className='font-bold text-3xl text-[#9514FA]'>DigiTools</h4>
                         <p className='w-50% mt-4'>
                             Premium digital tools for creators, <br /> professionals, and businesses.  Work smarter <br />  with our suite of powerful tools.
                         </p>
@@ -71,13 +71,15 @@ const Footer = () => {
                         </nav></div>
                     </div>
                 </div>
-                <hr className='md:w-full border border-gray-400/40 mt-20' />
-                <div className='flex mt-8 justify-between md:gap-250 flex-col'>
-                    <div><p className='text-white'>Copyright © {new Date().getFullYear()} - All right reserved</p></div>
-                    <div className='text-[#FAFAFA] flex md:gap-8 '>
-                        <h6><a className="link link-hover">Privacy Policy </a></h6>
-                        <h6><a className="link link-hover">Terms of Service</a></h6>
-                        <h6><a className="link link-hover"> Cookies</a></h6>
+                <hr className='w-full border border-gray-400/40 mt-20' />
+                <div className='mt-8 mx-auto'>
+                    <div className='grid md:grid-cols-2 justify-between items-center'>
+                        <div><p className='text-white'>Copyright © {new Date().getFullYear()} - All right reserved</p></div>
+                        <div className='text-[#FAFAFA] flex md:gap-8 '>
+                            <h6><a className="link link-hover">Privacy Policy </a></h6>
+                            <h6><a className="link link-hover">Terms of Service</a></h6>
+                            <h6><a className="link link-hover"> Cookies</a></h6>
+                        </div>
                     </div>
                 </div>
             </div>
